@@ -1,0 +1,14 @@
+{
+  "name": "@d3/radial-cluster/2",
+  "main": "022b50a822f43982@245.js",
+  "version": "245.0.0",
+  "homepage": "https://observablehq.com/@d3/radial-cluster/2",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
